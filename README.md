@@ -1,6 +1,6 @@
-# Laravel Boilerplate
+# Xuni Mock Service
 
-Laravel Boilerplate project with default settings and features
+POC para serviço gerador de mocks de integração com o TJ
 
 ##
 Laravel version - v11.23.5
